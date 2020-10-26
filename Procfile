@@ -1,0 +1,1 @@
+web: gunicorn mastercard_project.wsgi
