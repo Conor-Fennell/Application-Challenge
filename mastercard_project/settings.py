@@ -26,7 +26,7 @@ SECRET_KEY = ')w&1&0po$^008zgzl0$-9uu)2m-3x=u+@(tdljmh#=lda8*3=y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['string-reverser.herokuapp.com']
 
 
 # Application definition
